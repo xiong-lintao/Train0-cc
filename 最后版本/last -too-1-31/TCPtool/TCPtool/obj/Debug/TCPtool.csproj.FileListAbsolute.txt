@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\TCPtool\TCPtool\bin\Debug\TCPtool.dll
+C:\Users\User\Desktop\TCPtool\TCPtool\bin\Debug\TCPtool.pdb
+C:\Users\User\Desktop\TCPtool\TCPtool\obj\Debug\TCPtool.dll
+C:\Users\User\Desktop\TCPtool\TCPtool\obj\Debug\TCPtool.pdb
