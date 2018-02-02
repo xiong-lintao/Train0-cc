@@ -7,3 +7,12 @@ C:\Users\User\Desktop\GDIpoint\GDIpoint\obj\Debug\GDIpoint.Properties.Resources.
 C:\Users\User\Desktop\GDIpoint\GDIpoint\obj\Debug\GDIpoint.csproj.GenerateResource.Cache
 C:\Users\User\Desktop\GDIpoint\GDIpoint\obj\Debug\GDIpoint.exe
 C:\Users\User\Desktop\GDIpoint\GDIpoint\obj\Debug\GDIpoint.pdb
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\bin\Debug\GDIpoint.exe.config
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.exe
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.pdb
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\bin\Debug\GDIpoint.exe
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\bin\Debug\GDIpoint.pdb
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.Form1.resources
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.Properties.Resources.resources
+C:\Users\User\Desktop\最后版本\GDIpoint-2018-01-31\GDIpoint\obj\Debug\GDIpoint.csproj.GenerateResource.Cache
